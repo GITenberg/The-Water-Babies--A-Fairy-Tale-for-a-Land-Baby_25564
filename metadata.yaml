@@ -1,0 +1,39 @@
+_repo: The-Water-Babies--A-Fairy-Tale-for-a-Land-Baby_25564
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Goble, Warwick
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '25683'
+    url: http://www.gutenberg.org/2009/agents/25683
+covers:
+- cover_type: archival
+  image_path: 25564-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingley, Charles
+    - Kingsley, C. (Charles)
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25564'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales -- England'
+- !lcc 'PZ'
+- !lcsh 'Chimney sweeps -- Juvenile fiction'
+title: 'The Water-Babies: A Fairy Tale for a Land-Baby'
+url: http://www.gutenberg.org/ebooks/25564
