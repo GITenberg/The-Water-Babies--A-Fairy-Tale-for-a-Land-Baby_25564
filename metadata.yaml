@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/344
     wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25564#The-Water-Babies--A-Fairy-Tale-for-a-Land-Baby
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2008-05-23'
 gutenberg_type: Text
